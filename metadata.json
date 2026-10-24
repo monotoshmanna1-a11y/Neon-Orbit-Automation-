@@ -1,0 +1,6 @@
+{
+  "name": "Neon Orbit Automation",
+  "description": "Modern Android and Windows-compatible UI automation and journey preparation dashboard for authorized testing and workflow planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
